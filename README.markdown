@@ -1,4 +1,4 @@
-= Hobo demo with gradient_server
+# Hobo demo with gradient_server
 
 This app is a quick demo of the gradient_server plugin used in a Hobo app
 
